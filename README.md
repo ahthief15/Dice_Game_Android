@@ -1,1 +1,1 @@
-# Dice_Game_Android
+The Android Dice Game is a simple and entertaining application designed to simulate the experience of rolling dice. It provides users with a virtual set of dice that they can roll with a tap of a button. Whether you're looking for a fun way to pass the time or need a random number generator, this app has got you covered.
